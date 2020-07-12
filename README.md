@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [docs.microsoft.com](https://docs.microsoft.com) and [azure.microsoft.com](https://azure.microsoft.com)
+- 💬 Ask me about Microsoft, Docs, Web Performance, Cloud engineering
+- 📫 How to reach me: [Twitter](https://twitter.com/duncanma)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I wrote both Xbox for Dummies and Zune for Dummies 😄
+
 <!--
 **DuncanmaMSFT/DuncanmaMSFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
