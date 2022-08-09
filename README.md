@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [docs.microsoft.com](https://docs.microsoft.com) and [azure.microsoft.com](https://azure.microsoft.com)
+- 🔭 I used to work on [docs.microsoft.com](https://docs.microsoft.com) and [azure.microsoft.com](https://azure.microsoft.com)
 - 💬 Ask me about Microsoft, Docs, Web Performance, Cloud engineering
 - 📫 How to reach me: [Twitter](https://twitter.com/duncanma)
 - 😄 Pronouns: he/him
